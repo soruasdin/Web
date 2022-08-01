@@ -5,3 +5,7 @@ test
 
 
 Staged 상태로 만듬 +버튼
+
+
+asdfas
+레포지토리 설정??
